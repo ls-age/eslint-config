@@ -1,0 +1,42 @@
+{
+  "name": "eslint-config-lsage",
+  "version": "0.1.0",
+  "description": "This package provides ls-age's ESLint configuration",
+  "main": "out/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukasHechenberger/eslint-config-lsage.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "ls-age"
+  ],
+  "author": "Lukas Hechenberger <admin@ls-age.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukasHechenberger/eslint-config-lsage/issues"
+  },
+  "homepage": "https://github.com/LukasHechenberger/eslint-config-lsage#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "chai": "^3.5.0",
+    "eslint": "^3.4.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-babel": "^6.1.2"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "./out/index.js"
+  },
+  "dependencies": {
+    "eslint-plugin-import": "^1.14.0"
+  }
+}
