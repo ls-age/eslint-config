@@ -10,7 +10,7 @@ export function build() {
 }
 
 export function watchFiles() {
-  gulp.watch(sourceGlob, build)
+  gulp.watch(sourceGlob, build);
 }
 
 export const watch = gulp.series(build, watchFiles);
