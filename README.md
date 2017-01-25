@@ -34,3 +34,7 @@ doAync(function () { ... })
 ### Dangling underscores in identifiers are allowed
 
 This allows documentation generators to assume members are private.
+
+### API docs are linted
+
+API docs are linted using [eslint-plugin-jsdoc](https://github.com/LukasHechenberger/eslint-plugin-jsdoc).

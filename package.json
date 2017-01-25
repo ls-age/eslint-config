@@ -37,6 +37,7 @@
     "extends": "./out/index.js"
   },
   "dependencies": {
-    "eslint-plugin-import": "^1.14.0"
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsdoc": "git+https://github.com/LukasHechenberger/eslint-plugin-jsdoc.git"
   }
 }

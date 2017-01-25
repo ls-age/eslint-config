@@ -1,5 +1,6 @@
 const rules = [
   './rules/best-practices',
+  './rules/docs',
   './rules/errors',
   './rules/node',
   './rules/style',
