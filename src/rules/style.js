@@ -245,7 +245,11 @@ export const rules = {
   'operator-linebreak': 'off',
 
   // enforce padding within blocks
-  'padded-blocks': ['error', 'never'],
+  'padded-blocks': ['error', {
+    classes: 'always',
+    blocks: 'never',
+    switches: 'never',
+  }],
 
   // require quotes around object literal property names
   // http://eslint.org/docs/rules/quote-props.html
