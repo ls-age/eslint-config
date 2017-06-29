@@ -15,8 +15,8 @@ export const settings = {
   jsdoc: {
     tagNamePreference: {
       returns: 'return',
-      fires: 'emits'
-    }
+      fires: 'emits',
+    },
   },
 };
 
