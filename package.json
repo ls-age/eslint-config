@@ -6,6 +6,7 @@
   "scripts": {
     "compile": "babel src -d out",
     "docs": "mkdir -p docs/api && echo \"*not available yet\" > docs/api/README.md",
+    "lint": "eslint src",
     "prepublishOnly": "npm run -s compile && npm run -s docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
