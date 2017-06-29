@@ -4,6 +4,7 @@
   "description": "This package provides ls-age's ESLint configuration",
   "main": "out/index.js",
   "scripts": {
+    "compile": "babel src -d out",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/LukasHechenberger/eslint-config-lsage#readme",
   "devDependencies": {
+    "babel-cli": "^6.24.1",
     "babel-preset-es2015": "^6.14.0",
     "chai": "^3.5.0",
     "eslint": "^3.4.0",
