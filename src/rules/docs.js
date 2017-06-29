@@ -15,12 +15,8 @@ export const settings = {
   jsdoc: {
     tagNamePreference: {
       returns: 'return',
-    },
-    typeNamePreference: {
-      boolean: 'Boolean',
-      number: 'Number',
-      string: 'String',
-    },
+      fires: 'emits'
+    }
   },
 };
 
