@@ -299,7 +299,7 @@ export const rules = {
   // require or disallow a space immediately following the // or /* in a comment
   'spaced-comment': ['error', 'always', {
     exceptions: ['-', '+'],
-    markers: ['=', '!'],           // space here to support sprockets directives
+    markers: ['=', '!'],
   }],
 
   // require or disallow the Unicode Byte Order Mark

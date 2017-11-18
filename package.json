@@ -29,9 +29,12 @@
     "babel-cli": "^6.24.1",
     "babel-preset-es2015": "^6.14.0",
     "chai": "^3.5.0",
+    "conventional-changelog-cli": "^1.3.5",
+    "conventional-github-releaser": "^2.0.0",
     "eslint": "^4.11.0",
     "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-babel": "^6.1.2"
+    "gulp-babel": "^6.1.2",
+    "standard-version": "^4.2.0"
   },
   "babel": {
     "presets": [
@@ -44,5 +47,14 @@
   "dependencies": {
     "eslint-plugin-import": "^1.14.0",
     "eslint-plugin-jsdoc": "^3.1.1"
+  },
+  "standard-version": {
+    "skip": {
+      "changelog": true,
+      "tag": true
+    },
+    "scripts": {
+      "postbump": "./node_modules/.bin/conventional-changelog -r 0 -i CHANGELOG.md --same-file --preset angular"
+    }
   }
 }
