@@ -28,6 +28,20 @@ jobs:
           name: Transpiling source code
           command: npm run compile
 
+      # Test
+      - run:
+          name: Linting source files
+          command: npm run lint -- --format junit --output-file ~/reports/eslint.xml
+          when: always
+
+      # Store Results
+      - store_test_results:
+          path: ~/reports
+          when: always
+      - store_artifacts:
+          path: ~/reports
+          when: always
+
       # Deployment
       - add_ssh_keys
       - deploy:
