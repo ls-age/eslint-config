@@ -80,7 +80,7 @@ export const rules = {
 
   // disallow require()
   // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/no-commonjs.md
-  'import/no-commonjs': 'off',
+  'import/no-commonjs': 'error',
 
   // disallow AMD require/define
   // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/no-amd.md
