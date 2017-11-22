@@ -14,7 +14,7 @@ Heavily inspired by [Airbnb's ESLint config](https://github.com/airbnb/javascrip
 
 ```json
 {
-  "extends": "@ls-age/ava"
+  "extends": "@ls-age/eslint-config/ava"
 }
 ```
 
