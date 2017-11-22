@@ -1,11 +1,10 @@
-<a name="0.5.0-beta.0"></a>
-# [0.5.0-beta.0](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.5.0-beta.0) (2017-11-22)
+<a name="0.5.0"></a>
+# [0.5.0](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.5.0) (2017-11-22)
 
 
 ### Bug Fixes
 
-* **docs:** Fix typo in readme ([92487ce](https://github.com/ls-age/eslint-config/commit/92487ce))
-* **docs:** Fix typo in readme ([cfb3836](https://github.com/ls-age/eslint-config/commit/cfb3836))
+* **docs:** Fix typo in readme ([#7](https://github.com/ls-age/eslint-config/issues/7)) ([1791d50](https://github.com/ls-age/eslint-config/commit/1791d50))
 * **import:** Disallow commonjs requires ([1a9c034](https://github.com/ls-age/eslint-config/commit/1a9c034))
 
 
