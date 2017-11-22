@@ -4,6 +4,7 @@
 
 ### Bug Fixes
 
+* **docs:** Fix typo in readme ([cfb3836](https://github.com/ls-age/eslint-config/commit/cfb3836))
 * **import:** Disallow commonjs requires ([1a9c034](https://github.com/ls-age/eslint-config/commit/1a9c034))
 
 
