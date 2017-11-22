@@ -1,5 +1,5 @@
-<a name="0.4.0-beta.2"></a>
-# [0.4.0-beta.2](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.4.0-beta.2) (2017-11-22)
+<a name="0.4.0"></a>
+# [0.4.0](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.4.0) (2017-11-22)
 
 
 ### Bug Fixes
