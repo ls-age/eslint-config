@@ -1,10 +1,22 @@
-# eslint-config-lsage
+# @ls-age/eslint-config
 
 > This package provides ls-age's ESLint configuration.
 
 Heavily inspired by [Airbnb's ESLint config](https://github.com/airbnb/javascript).
 
 ## Main differences to `eslint-config-airbnb`:
+
+### `ava` sub-config
+
+> A special config for linting [AVA](https://github.com/avajs/ava) test files.
+
+**Usage via .eslintrc**
+
+```json
+{
+  "extends": "@ls-age/ava"
+}
+```
 
 ### The *mocha* environment:
 
