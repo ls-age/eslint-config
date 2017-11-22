@@ -1,9 +1,10 @@
-<a name="0.4.0-beta.2"></a>
-# [0.4.0-beta.2](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.4.0-beta.2) (2017-11-22)
+<a name="0.4.0-beta.3"></a>
+# [0.4.0-beta.3](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.4.0-beta.3) (2017-11-22)
 
 
 ### Bug Fixes
 
+* **docs:** Fix typo in readme ([cfb3836](https://github.com/ls-age/eslint-config/commit/cfb3836))
 * **import:** Disallow commonjs requires ([1a9c034](https://github.com/ls-age/eslint-config/commit/1a9c034))
 
 
