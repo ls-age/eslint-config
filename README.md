@@ -1,4 +1,4 @@
-# eslint-config-lsage
+# @ls-age/eslint-config
 
 > This package provides ls-age's ESLint configuration.
 
@@ -14,7 +14,7 @@ Heavily inspired by [Airbnb's ESLint config](https://github.com/airbnb/javascrip
 
 ```json
 {
-  "extends": "lsage/ava"
+  "extends": "@ls-age/ava"
 }
 ```
 

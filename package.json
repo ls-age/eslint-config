@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-lsage",
+  "name": "@ls-age/eslint-config",
   "version": "0.4.0-beta.1",
   "description": "This package provides ls-age's ESLint configuration",
   "main": "out/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LukasHechenberger/eslint-config-lsage.git"
+    "url": "git+https://github.com/ls-age/eslint-config.git"
   },
   "keywords": [
     "eslint",
@@ -22,9 +22,9 @@
   "author": "Lukas Hechenberger <admin@ls-age.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LukasHechenberger/eslint-config-lsage/issues"
+    "url": "https://github.com/ls-age/eslint-config/issues"
   },
-  "homepage": "https://github.com/LukasHechenberger/eslint-config-lsage#readme",
+  "homepage": "https://github.com/ls-age/eslint-config#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-es2015": "^6.14.0",
