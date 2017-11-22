@@ -1,5 +1,5 @@
-<a name="0.3.0"></a>
-# [0.3.0](https://github.com/LukasHechenberger/eslint-config-lsage/compare/v0.2.0...v0.3.0) (2017-11-18)
+<a name="0.4.0-beta.0"></a>
+# [0.4.0-beta.0](https://github.com/LukasHechenberger/eslint-config-lsage/compare/v0.2.0...v0.4.0-beta.0) (2017-11-22)
 
 
 ### Bug Fixes
