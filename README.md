@@ -6,6 +6,18 @@ Heavily inspired by [Airbnb's ESLint config](https://github.com/airbnb/javascrip
 
 ## Main differences to `eslint-config-airbnb`:
 
+### `ava` sub-config
+
+> A special config for linting [AVA](https://github.com/avajs/ava) test files.
+
+**Usage via .eslintrc**
+
+```json
+{
+  "extends": "lsage/ava"
+}
+```
+
 ### The *mocha* environment:
 
 > This config contains an advanced mocha environment.
