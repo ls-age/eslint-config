@@ -57,6 +57,9 @@ jobs:
               echo "Logging in to npm"
               echo "$NPM_TOKEN" > ./.npmrc
 
+              echo "Fetching previous release tags"
+              git fetch --tags
+
               echo "Bumping version number"
               if [ $CIRCLE_BRANCH = 'master' ]; then
                 ./node_modules/.bin/standard-version --message "chore(release): Release %s [ci skip]"
