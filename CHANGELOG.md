@@ -1,5 +1,5 @@
-<a name="0.4.0-beta.0"></a>
-# [0.4.0-beta.0](https://github.com/LukasHechenberger/eslint-config-lsage/compare/v0.2.0...v0.4.0-beta.0) (2017-11-22)
+<a name="0.4.0-beta.1"></a>
+# [0.4.0-beta.1](https://github.com/LukasHechenberger/eslint-config-lsage/compare/v0.2.0...v0.4.0-beta.1) (2017-11-22)
 
 
 ### Bug Fixes
@@ -10,6 +10,7 @@
 ### Features
 
 * **import:** Lint module order ([8cb0726](https://github.com/LukasHechenberger/eslint-config-lsage/commit/8cb0726)), closes [#1](https://github.com/LukasHechenberger/eslint-config-lsage/issues/1)
+* Add `ava` sub-config ([#4](https://github.com/LukasHechenberger/eslint-config-lsage/issues/4)) ([dd13280](https://github.com/LukasHechenberger/eslint-config-lsage/commit/dd13280))
 
 
 
