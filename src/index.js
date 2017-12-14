@@ -9,6 +9,7 @@ const rules = [
   './rules/es6',
 
   // Special Environments
+  './envs/browser',
   './envs/mocha',
 ].map(require.resolve);
 
