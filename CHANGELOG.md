@@ -1,5 +1,5 @@
-<a name="0.6.0"></a>
-# [0.6.0](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.6.0) (2017-11-28)
+<a name="0.6.0-beta.1"></a>
+# [0.6.0-beta.1](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.6.0-beta.1) (2017-12-14)
 
 
 ### Bug Fixes
@@ -12,6 +12,7 @@
 
 * **import:** Lint module order ([8cb0726](https://github.com/ls-age/eslint-config/commit/8cb0726)), closes [#1](https://github.com/ls-age/eslint-config/issues/1)
 * Add `ava` sub-config ([#4](https://github.com/ls-age/eslint-config/issues/4)) ([dd13280](https://github.com/ls-age/eslint-config/commit/dd13280))
+* Test browser compatibility using the `compat` plugin ([43be226](https://github.com/ls-age/eslint-config/commit/43be226))
 
 
 
