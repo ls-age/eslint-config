@@ -1,5 +1,5 @@
-<a name="0.6.0"></a>
-# [0.6.0](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.6.0) (2017-12-14)
+<a name="0.8.0"></a>
+# [0.8.0](https://github.com/ls-age/eslint-config/compare/v0.2.0...v0.8.0) (2017-12-14)
 
 
 ### Bug Fixes
