@@ -1,6 +1,6 @@
 {
   "name": "@ls-age/eslint-config",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "This package provides ls-age's ESLint configuration",
   "main": "out/index.js",
   "scripts": {
