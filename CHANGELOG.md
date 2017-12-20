@@ -1,10 +1,11 @@
-<a name="0.8.1-beta.0"></a>
-## 0.8.1-beta.0 (2017-12-20)
+<a name="0.8.1-beta.1"></a>
+## 0.8.1-beta.1 (2017-12-20)
 
 
 ### Bug Fixes
 
 * **cd:** Use [@ls-age](https://github.com/ls-age)/bump-version for automated releases ([7e857e1](https://github.com/ls-age/eslint-config/commits/7e857e1))
+* **ci:** Remove accidentally pushed file ([e3276af](https://github.com/ls-age/eslint-config/commits/e3276af))
 
 
 
