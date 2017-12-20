@@ -51,6 +51,6 @@ jobs:
             git config --global user.email circleci@circleci && git config --global user.name CircleCI && git remote --v
 
             echo "Logging in to npm"
-            echo "$NPM_TOKEN" > ./.npmrc
+            echo "$NPM_TOKEN" > ../.npmrc
 
             npx bump-version release --gh-token $RELEASE_GITHUB_TOKEN
