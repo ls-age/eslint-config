@@ -62,5 +62,10 @@
   },
   "ava": {
     "require": "babel-register"
+  },
+  "renovate": {
+    "extends": [
+      "@ls-age:automergeDev"
+    ]
   }
 }
