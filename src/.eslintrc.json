@@ -1,5 +1,6 @@
 {
   "rules": {
-    "import/prefer-default-export": "off"
+    "import/prefer-default-export": "off",
+    "compat/compat": "off"
   }
 }
