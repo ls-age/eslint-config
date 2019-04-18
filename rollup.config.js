@@ -9,6 +9,7 @@ export default {
   input: [
     './src/index.js',
     './src/configs/ava.js',
+    './src/configs/svelte.js',
   ],
   external: [
     ...builtinModules,
