@@ -6,7 +6,10 @@ import builtinModules from 'builtin-modules';
 import { dependencies } from './package.json';
 
 export default {
-  input: './src/index.js',
+  input: [
+    './src/index.js',
+    './src/configs/ava.js',
+  ],
   external: [
     ...builtinModules,
     ...Object.keys(dependencies),
@@ -18,7 +21,7 @@ export default {
     babel({ exclude: 'node_modules/**' }),
   ],
   output: {
-    file: './out/index.js',
+    dir: './out',
     format: 'cjs',
   },
 };
