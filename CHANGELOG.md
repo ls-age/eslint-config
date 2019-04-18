@@ -1,11 +1,21 @@
-<a name="0.8.1-beta.1"></a>
-## 0.8.1-beta.1 (2017-12-20)
+<a name="0.9.0-beta.0"></a>
+# 0.9.0-beta.0 (2019-04-18)
 
 
 ### Bug Fixes
 
 * **cd:** Use [@ls-age](https://github.com/ls-age)/bump-version for automated releases ([7e857e1](https://github.com/ls-age/eslint-config/commits/7e857e1))
 * **ci:** Remove accidentally pushed file ([e3276af](https://github.com/ls-age/eslint-config/commits/e3276af))
+
+
+### Features
+
+* Add `svelte` subconfig ([2109c86](https://github.com/ls-age/eslint-config/commits/2109c86))
+
+
+### Performance Improvements
+
+* **bundle:** Use rollup to compile sources ([e723f60](https://github.com/ls-age/eslint-config/commits/e723f60))
 
 
 
