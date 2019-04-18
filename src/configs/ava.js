@@ -1,6 +1,5 @@
-import { extends as base } from '../';
+import base from '../index.js';
+import * as ava from '../envs/ava';
+import { mergeConfigs } from '../helpers.js';
 
-const extensions = base
-  .concat(require.resolve('../envs/ava'));
-
-export { extensions as extends };
+export default mergeConfigs([base, ava]);

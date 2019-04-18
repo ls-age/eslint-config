@@ -1,1 +1,1 @@
-module.exports = require('./out/configs/ava'); // eslint-disable-line import/no-commonjs
+module.exports = require('./out/ava.js'); // eslint-disable-line import/no-commonjs
