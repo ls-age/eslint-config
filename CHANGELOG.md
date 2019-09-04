@@ -1,3 +1,14 @@
+<a name="0.9.1"></a>
+## 0.9.1 (2019-09-04)
+
+
+### Bug Fixes
+
+* Fix incompatibility with eslint v6 ([#63](https://github.com/ls-age/eslint-config/issues/63)) ([042dce3](https://github.com/ls-age/eslint-config/commits/042dce3))
+
+
+
+
 <a name="0.9.0"></a>
 # 0.9.0 (2019-04-18)
 
