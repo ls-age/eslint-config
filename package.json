@@ -31,7 +31,7 @@
     "@ls-age/bump-version": "0.2.0",
     "ava": "2.4.0",
     "builtin-modules": "3.1.0",
-    "eslint": "6.4.0",
+    "eslint": "6.5.0",
     "rollup": "1.21.4",
     "rollup-plugin-babel": "4.3.3",
     "rollup-plugin-commonjs": "10.1.0",
