@@ -1,3 +1,14 @@
+<a name="0.9.2"></a>
+## 0.9.2 (2019-10-29)
+
+
+### Bug Fixes
+
+* Do not require trailing commas in functions ([#74](https://github.com/ls-age/eslint-config/issues/74)) ([7349770](https://github.com/ls-age/eslint-config/commits/7349770))
+
+
+
+
 <a name="0.9.1"></a>
 ## 0.9.1 (2019-09-04)
 
