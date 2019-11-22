@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/ls-age/eslint-config#readme",
   "devDependencies": {
-    "@babel/core": "7.7.2",
-    "@babel/preset-env": "7.7.1",
+    "@babel/core": "7.7.4",
+    "@babel/preset-env": "7.7.4",
     "@ls-age/bump-version": "0.2.1",
     "ava": "2.4.0",
     "builtin-modules": "3.1.0",
