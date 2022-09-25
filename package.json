@@ -32,7 +32,7 @@
     "ava": "4.3.0",
     "builtin-modules": "3.3.0",
     "eslint": "6.8.0",
-    "rollup": "2.2.0",
+    "rollup": "2.79.1",
     "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-commonjs": "10.1.0",
     "rollup-plugin-json": "4.0.0",
